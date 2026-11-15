@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm B Karthik kumar Reddy</h1>
-<h1 align="center" color="red">DevOps Engineer at LTIMINDTREE </h1>
-<h3 align="center">Experienced as a Devops Engineer with 2.0 years of Experience. Skilled in developing and deploying scalable solutions to meet complex Industry needs. Good problemsolving and teamwork abilities Passionate about staying current with industry trends</h3>
+<h1 align="center">Hi 👋, I'm P Yaswanth Reddy</h1>
+<h1 align="center" color="red">SAP CPI Consultant at LTM </h1>
+<h3 align="center">Experienced SAP CPI Consultant with 4 years of experience in designing, developing, and deploying integration solutions using SAP Cloud Platform Integration (CPI). Skilled in developing and managing scalable integration flows to meet complex business requirements. Strong knowledge of APIs, message mapping, Content Modifiers, Groovy scripting, and various integration adapters. Excellent problem-solving, analytical, and teamwork abilities, with a passion for learning new technologies and staying updated with the latest SAP integration trends.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,17 +8,15 @@
 
 
 
-- 🔭 I’m worked in LTIMindtree
+- 🔭 I’m working at LTM
 
-- 🌱 I’m currently learning **Data Structures and algorithms in java, Spring boot**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Karthikeya142](https://github.com/Karthikeya142)
+- 👨‍💻 All of my projects are available at [https://github.com/yash2001-create](https://github.com/yash2001-create)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/b-karthik-kumar-reddy/](https://www.linkedin.com/in/b-karthik-kumar-reddy/)
 
-- 💬 Ask me about **Devops tools**
+- 💬 Ask me about **SAP CPI**
 
-- 📫 How to reach me **busupallikarthikkumarreddy@gmail.com**
+- 📫 How to reach me **reddyparaku2001@gmail.com**
 
 - ⚡ **I am Funny**
 
